@@ -1,6 +1,6 @@
 {
   "name": "calculator",
-  "version": "0.5.3",
+  "version": "0.5.5",
   "license": "MIT",
   "homepage": "http://ahfarmer.github.io/calculator",
   "devDependencies": {
